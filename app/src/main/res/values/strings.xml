@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Module9</string>
+    <string name="person_name">Pedro Oliveira Bayma</string>
+    <string name="email">pedrobayma01@gmail.com</string>
+    <string name="title">SmartPsycho</string>
+    <string name="address">Rua 25 norte, Águas Claras, Brasília, DF</string>
+    <string name="phone">(61) 9 96360014</string>
+    <string name="description">Contact us:</string>
 </resources>
